@@ -1,0 +1,4 @@
+# Create a ship with only torpedos in the primary strores, what never fails. Secondara store is empty
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # should have fire from the primary store
+TORPEDO,SINGLE  # should have fire from the primary store

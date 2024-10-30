@@ -1,0 +1,3 @@
+# Create a ship with stored torpedos only in the primary store, with failure rate set to 0, testing after frieing
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # should fired from the primary store

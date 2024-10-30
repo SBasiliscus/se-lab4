@@ -1,0 +1,3 @@
+# Create a ship with always failing torpedo stored in one of the store
+GT4500,10,1,10,0
+TORPEDO,ALL  # should have fire the secondary store
